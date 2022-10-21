@@ -1,6 +1,6 @@
 ### Hello there 👋, my name is Bradley Robles
 #### A Full-Stack Software Developer
-![A Full-Stack Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Full-Stack Software Developer](https://media-exp1.licdn.com/dms/image/C5616AQEGQfhdi7UwZA/profile-displaybackgroundimage-shrink_350_1400/0/1655726893526?e=1671667200&v=beta&t=iFG43bdmTzqV-P-eb57Nbk4ozu6Kgc7DrJSKMASdhp8)
 
 I am currently attending the Tech Academy's Software Developer Boot Camp where I learned much about software development from the ground up.
 
