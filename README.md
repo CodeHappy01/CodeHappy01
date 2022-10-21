@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Bradley Robles
+### Hello there 👋, my name is Bradley Robles
 #### A Full-Stack Software Developer
 ![A Full-Stack Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
