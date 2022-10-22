@@ -1,13 +1,13 @@
 ### Hello there 👋, my name is Bradley Robles
 #### A Full-Stack Software Developer
-![A Full-Stack Software Developer](https://raw.githubusercontent.com/CodeHappy01/Images/main/coming%20soon%20Banner%20Landscape.png?token=GHSAT0AAAAAABZOGOKJXJL7EXS2NRYNYCRUY2THSOA)
+![A Full-Stack Software Developer](https://raw.githubusercontent.com/CodeHappy01/Images/main/coming%20soon%20Banner%20Landscape.png?token=GHSAT0AAAAAABZOGOKJTZK5KTYTZBKF7PT2Y2TIF3A)
 
 I am currently attending the Tech Academy's Software Developer Boot Camp where I learned much about software development from the ground up.
 
-Skills: REACT / JS / HTML / CSS / SQL
+Skills: REACT / JS / HTML / CSS / SQL / PYTHON
 
 - 🔭 I’m currently working on a live project (internship) at The Tech Academy 
-- 🌱 I’m currently learning C# , .NET Framework, ASP.NET, MVC 
+- 🌱 I’m currently learning C# , .NET Framework, ASP.NET, MVC
 - 💬 Ask me about my experience with The Tech Academy Bootcamp 
 - 📫 How to reach me: Email me at bradleyrobles88@gmail.com or reach out at any of my social below 	↓ 
 
