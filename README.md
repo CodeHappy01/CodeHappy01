@@ -2,7 +2,7 @@
 #### A Full-Stack Software Developer
 ![A Full-Stack Software Developer](https://raw.githubusercontent.com/CodeHappy01/Images/main/coming%20soon%20Banner%20Landscape%20(2).png?token=GHSAT0AAAAAABZOGOKIJ2VBKHI4BHMQMDGEY2TITYA)
 
-I am currently attending the Tech Academy's Software Developer Boot Camp where I have gained significant amount of knowledge about software development from the ground up.
+I am currently attending the Tech Academy's Software Developer Boot Camp where I have learned a great amount about software development from the ground up.
 
 Skills: HTML / CSS / SQL / JS /  PYTHON / REACT
 
