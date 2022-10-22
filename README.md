@@ -9,7 +9,7 @@ Skills: HTML / CSS / SQL / JS /  PYTHON / REACT
 - 🔭 I’m currently working on a live project (internship) at The Tech Academy 
 - 🌱 I’m currently learning C# , .NET Framework, ASP.NET, MVC
 - 💬 Ask me about my experience with The Tech Academy Bootcamp 
-- 📫 How to reach me: Email me at bradleyrobles88@gmail.com or reach out at any of my social below 	↓ 
+- 📫 How to reach me: Email me at bradleyrobles88@gmail.com or at my LinkedIn (link below) 	↓ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bradley-robles/)  
