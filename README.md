@@ -1,6 +1,6 @@
 ### Hello there 👋, my name is Bradley Robles
 #### A Full-Stack Software Developer
-![A Full-Stack Software Developer](https://raw.githubusercontent.com/CodeHappy01/Images/main/coming%20soon%20Banner%20Landscape%20(2).png?token=GHSAT0AAAAAABZOGOKIJ2VBKHI4BHMQMDGEY2TITYA)
+![A Full-Stack Software Developer](https://github.com/CodeHappy01/Images/blob/main/coming%20soon%20Banner%20Landscape%20(2).png?raw=true)
 
 I am currently attending the Tech Academy's Software Developer Boot Camp where I have learned (still learning) a great amount about software development from hardware to software from client to sever side! The skills I have aquired include ↓ 
 
