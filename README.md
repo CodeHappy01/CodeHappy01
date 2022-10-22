@@ -12,5 +12,5 @@ Skills: HTML / CSS / SQL / JS /  PYTHON / REACT
 - 📫 How to reach me: Email me at bradleyrobles88@gmail.com or at my LinkedIn (link below) 	↓ 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bradley-robles/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bradley-robles/)   
 
