@@ -4,7 +4,7 @@
 
 I am currently attending the Tech Academy's Software Developer Boot Camp where I learned much about software development from the ground up.
 
-Skills: REACT / JS / HTML / CSS / SQL / PYTHON
+Skills: HTML / CSS / SQL / JS /  PYTHON / REACT
 
 - 🔭 I’m currently working on a live project (internship) at The Tech Academy 
 - 🌱 I’m currently learning C# , .NET Framework, ASP.NET, MVC
