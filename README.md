@@ -11,7 +11,8 @@ Skills: HTML / CSS / SQL / JS / BOOTSTRAP / PYTHON /  DJANGO / C# / .NET FRAMEWO
 - 💬 Ask me about my experience with The Tech Academy Bootcamp 
 - 📫 How to reach me: 
 - Email: bradleyrobles88@gmail.com
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bradley-robles/)   
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bradley-robles/)
+- 🔗 Other Links   
 - [Portfolio](https://codehappy01.github.io/portfolio_site/portfolio.html) 
 - [Resume](https://docs.google.com/document/d/1ZuiCFJZu5UhMrvFf3-CUKF4GLbM0XAHlLjM5JprYdak/edit?usp=sharing) 
 
